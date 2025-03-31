@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Cloudflare Turnstile for YOURLS Admin
-Plugin URI: https://github.com/Kev506/
+Plugin URI: https://github.com/Kev506/YOURLS-Cloudflare-Turnstile
 Description: Adds Cloudflare Turnstile to the YOURLS Admin login.
 Version: 2.0
 Author: Kevin Andrews
