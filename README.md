@@ -1,5 +1,6 @@
 # YOURLS-Cloudflare-Turnstile
 Cloudflare Turnstile for YOURLS admin login.
+Tested on YOURLS latest v1.10.0
 
 # Installation
 * Register on [Cloudflare](https://dash.cloudflare.com/?to=/:account/turnstile) to use the Turnstile and obtain your site and secret key.
